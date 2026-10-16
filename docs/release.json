@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "date": "2026-10-16",
+  "repository": "JeonDoGyun/pocket-garden-release",
+  "tag": "v1.0",
+  "asset": "PokeGarden-1.0-arm64.zip",
+  "minimumMacOS": "13",
+  "architecture": "Apple Silicon",
+  "downloadReady": true,
+  "sizeBytes": 356229495,
+  "downloadURL": "https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.0/PokeGarden-1.0-arm64.zip"
+}
