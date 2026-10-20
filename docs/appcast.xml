@@ -4,13 +4,13 @@
     <title>포켓가든 업데이트</title>
     <link>https://jeondogyun.github.io/pocket-garden-release/</link>
     <item>
-      <title>포켓가든 1.1.0</title>
-      <pubDate>Tue, 20 Oct 2026 01:01:54 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>포켓가든 1.1.1</title>
+      <pubDate>Tue, 20 Oct 2026 04:25:09 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;쿠폰과 보상권&lt;/h3&gt;&lt;p&gt;설정에서 쿠폰 코드를 등록할 수 있고, 등록이 끝나면 완료 알림을 띄웁니다.&lt;/p&gt;&lt;p&gt;등록한 쿠폰은 보상권이 되어 가방에 보관됩니다.&lt;/p&gt;&lt;p&gt;선택권으로 전체 포켓몬이나 도구 중 원하는 하나를 이름·도감 번호·세대로 찾아 고를 수 있습니다.&lt;/p&gt;&lt;p&gt;랜덤권을 사용하면 뽑기 기계 연출과 함께 선물이 나오고, 연출은 건너뛸 수 있습니다.&lt;/p&gt;&lt;p&gt;받은 포켓몬은 짧은 등장 인사 후 제자리에서 움직이며, 쿠폰으로 만난 친구는 모험 수첩에 기록됩니다.&lt;/p&gt;&lt;h3&gt;화면 수정&lt;/h3&gt;&lt;p&gt;도구를 지닌 포켓몬 옆에 지닌 도구 표시를 추가했습니다.&lt;/p&gt;&lt;p&gt;설정 창이 열려 있어도 알림이 창 위에 또렷하게 보이도록 고쳤습니다.&lt;/p&gt;</description>
-      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.1.0/PokeGarden-1.1.0-arm64.zip" length="369416122" type="application/octet-stream" sparkle:edSignature="jsaFmxQmAjEmwAobNfeogWZ546lFoROrd7Pnyae12ir5H42PAL3lxjR71NNKorJTF5tVkKyJfK9XRhgHu15UAg==" />
+      <description>&lt;h3&gt;변함없는돌&lt;/h3&gt;&lt;p&gt;지니고 있는 동안 진화하지 않는 변함없는돌을 추가했습니다. 레벨과 경험치는 계속 오르고, 가방에 돌려놓으면 다시 진화할 수 있습니다.&lt;/p&gt;&lt;p&gt;풀숲에서 만난 포켓몬이 변함없는돌을 지니고 있을 수 있고, 교환소에서 도구 5개로 바꿀 수 있습니다.&lt;/p&gt;&lt;p&gt;쿠폰으로 받는 변함없는돌 교환권을 추가했습니다.&lt;/p&gt;&lt;h3&gt;미니게임&lt;/h3&gt;&lt;p&gt;미니게임 코스가 하루 동안 고정되지 않고 매 판 새로 바뀌며, 바로 전 판과 같은 배치는 나오지 않습니다.&lt;/p&gt;&lt;p&gt;지뢰찾기도 매 판 새로운 배치로 시작합니다.&lt;/p&gt;&lt;h3&gt;앱 업데이트&lt;/h3&gt;&lt;p&gt;앱을 켤 때마다 새 버전을 확인해, 다시 실행하면 바로 업데이트 소식을 볼 수 있습니다.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.1.1/PokeGarden-1.1.1-arm64.zip" length="369417794" type="application/octet-stream" sparkle:edSignature="amLUpH0W+CjUdUZB9MnUeE3C+ezWVXCtmBN9s4SvESiBTT0WSEO4ZD1qkI4wgzLwoGTXJlpd2al0tTLkpSG6Ag==" />
     </item>
   </channel>
 </rss>
