@@ -4,13 +4,13 @@
     <title>포켓가든 업데이트</title>
     <link>https://jeondogyun.github.io/pocket-garden-release/</link>
     <item>
-      <title>포켓가든 1.0.1</title>
-      <pubDate>Mon, 19 Oct 2026 05:21:06 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <title>포켓가든 1.1.0</title>
+      <pubDate>Tue, 20 Oct 2026 01:01:54 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;앱 업데이트&lt;/h3&gt;&lt;p&gt;새 버전 알림과 앱 안에서 업데이트하는 기능을 추가했습니다.&lt;/p&gt;&lt;p&gt;앱 메뉴·메뉴 막대·설정에서 업데이트를 확인할 수 있습니다.&lt;/p&gt;&lt;p&gt;업데이트 창에서 이번 버전의 변경 내용을 볼 수 있습니다.&lt;/p&gt;&lt;h3&gt;화면 수정&lt;/h3&gt;&lt;p&gt;미니게임 결과 창의 다시 도전·정원으로 버튼 높이와 정렬을 맞췄습니다.&lt;/p&gt;&lt;p&gt;내용이 긴 창을 스크롤해도 제목과 안내 문구가 위에 고정되고, 창 안쪽 여백을 좌우 고르게 맞췄습니다.&lt;/p&gt;&lt;p&gt;창이 좁을 때 상단 메뉴·음악 패널·도감 검색이 잘리거나 겹치지 않도록 배치를 고쳤습니다.&lt;/p&gt;</description>
-      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.0.1/PokeGarden-1.0.1-arm64.zip" length="369363458" type="application/octet-stream" sparkle:edSignature="rGfSNjx3J3cGV5mBNuAI3cBUkV77uKKHzRRjfA++QCg98a1tLYrf0cEVqIH3lpw4TZF1KAp/KMzZphCezVKsCg==" />
+      <description>&lt;h3&gt;쿠폰과 보상권&lt;/h3&gt;&lt;p&gt;설정에서 쿠폰 코드를 등록할 수 있고, 등록이 끝나면 완료 알림을 띄웁니다.&lt;/p&gt;&lt;p&gt;등록한 쿠폰은 보상권이 되어 가방에 보관됩니다.&lt;/p&gt;&lt;p&gt;선택권으로 전체 포켓몬이나 도구 중 원하는 하나를 이름·도감 번호·세대로 찾아 고를 수 있습니다.&lt;/p&gt;&lt;p&gt;랜덤권을 사용하면 뽑기 기계 연출과 함께 선물이 나오고, 연출은 건너뛸 수 있습니다.&lt;/p&gt;&lt;p&gt;받은 포켓몬은 짧은 등장 인사 후 제자리에서 움직이며, 쿠폰으로 만난 친구는 모험 수첩에 기록됩니다.&lt;/p&gt;&lt;h3&gt;화면 수정&lt;/h3&gt;&lt;p&gt;도구를 지닌 포켓몬 옆에 지닌 도구 표시를 추가했습니다.&lt;/p&gt;&lt;p&gt;설정 창이 열려 있어도 알림이 창 위에 또렷하게 보이도록 고쳤습니다.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.1.0/PokeGarden-1.1.0-arm64.zip" length="369416122" type="application/octet-stream" sparkle:edSignature="jsaFmxQmAjEmwAobNfeogWZ546lFoROrd7Pnyae12ir5H42PAL3lxjR71NNKorJTF5tVkKyJfK9XRhgHu15UAg==" />
     </item>
   </channel>
 </rss>
