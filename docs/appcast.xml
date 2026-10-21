@@ -4,13 +4,13 @@
     <title>포켓가든 업데이트</title>
     <link>https://jeondogyun.github.io/pocket-garden-release/</link>
     <item>
-      <title>포켓가든 1.1.1</title>
-      <pubDate>Tue, 20 Oct 2026 04:25:09 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <title>포켓가든 1.2.0</title>
+      <pubDate>Wed, 21 Oct 2026 00:12:40 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;변함없는돌&lt;/h3&gt;&lt;p&gt;지니고 있는 동안 진화하지 않는 변함없는돌을 추가했습니다. 레벨과 경험치는 계속 오르고, 가방에 돌려놓으면 다시 진화할 수 있습니다.&lt;/p&gt;&lt;p&gt;풀숲에서 만난 포켓몬이 변함없는돌을 지니고 있을 수 있고, 교환소에서 도구 5개로 바꿀 수 있습니다.&lt;/p&gt;&lt;p&gt;쿠폰으로 받는 변함없는돌 교환권을 추가했습니다.&lt;/p&gt;&lt;h3&gt;미니게임&lt;/h3&gt;&lt;p&gt;미니게임 코스가 하루 동안 고정되지 않고 매 판 새로 바뀌며, 바로 전 판과 같은 배치는 나오지 않습니다.&lt;/p&gt;&lt;p&gt;지뢰찾기도 매 판 새로운 배치로 시작합니다.&lt;/p&gt;&lt;h3&gt;앱 업데이트&lt;/h3&gt;&lt;p&gt;앱을 켤 때마다 새 버전을 확인해, 다시 실행하면 바로 업데이트 소식을 볼 수 있습니다.&lt;/p&gt;</description>
-      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.1.1/PokeGarden-1.1.1-arm64.zip" length="369417794" type="application/octet-stream" sparkle:edSignature="amLUpH0W+CjUdUZB9MnUeE3C+ezWVXCtmBN9s4SvESiBTT0WSEO4ZD1qkI4wgzLwoGTXJlpd2al0tTLkpSG6Ag==" />
+      <description>&lt;h3&gt;포켓몬 애니메이션&lt;/h3&gt;&lt;p&gt;홈 정원과 파트너 패널의 포켓몬이 1~9세대 1,025종 각자의 고유한 움직임으로 움직입니다. 이로치도 그 색 그대로 움직입니다.&lt;/p&gt;&lt;p&gt;진화 연출과 쿠폰 선물에서 새 친구가 고유 애니메이션으로 등장합니다.&lt;/p&gt;&lt;p&gt;&amp;#x27;GPT 펫으로 만들기&amp;#x27;로 새로 만드는 펫이 홈 화면과 같은 움직임을 사용합니다. 이미 등록한 펫은 다시 만들면 바뀝니다.&lt;/p&gt;&lt;p&gt;시스템의 동작 줄이기 설정을 켜면 움직이지 않는 기본 이미지로 보여 줍니다.&lt;/p&gt;&lt;h3&gt;울음소리&lt;/h3&gt;&lt;p&gt;진화가 끝나거나 선물로 포켓몬을 받으면 그 포켓몬의 울음소리가 납니다.&lt;/p&gt;&lt;p&gt;배경음악을 끄면 울음소리도 함께 꺼지고, 창을 닫으면 바로 멈춥니다.&lt;/p&gt;&lt;h3&gt;크레딧&lt;/h3&gt;&lt;p&gt;게임 아트 크레딧에 애니메이션과 울음소리의 출처를 추가했습니다.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.2.0/PokeGarden-1.2.0-arm64.zip" length="494661974" type="application/octet-stream" sparkle:edSignature="kkYX0sy+wzISxhSb8OFHgEvChN5s7cO3yzUiGnFGaVSx9mBjgKj4PQBJfwC40Disbb6SgpCXxm4Y/JOQMoTxDg==" />
     </item>
   </channel>
 </rss>
