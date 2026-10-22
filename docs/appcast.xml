@@ -4,13 +4,13 @@
     <title>포켓가든 업데이트</title>
     <link>https://jeondogyun.github.io/pocket-garden-release/</link>
     <item>
-      <title>포켓가든 1.2.0</title>
-      <pubDate>Wed, 21 Oct 2026 00:12:40 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <title>포켓가든 1.3.0</title>
+      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;포켓몬 애니메이션&lt;/h3&gt;&lt;p&gt;홈 정원과 파트너 패널의 포켓몬이 1~9세대 1,025종 각자의 고유한 움직임으로 움직입니다. 이로치도 그 색 그대로 움직입니다.&lt;/p&gt;&lt;p&gt;진화 연출과 쿠폰 선물에서 새 친구가 고유 애니메이션으로 등장합니다.&lt;/p&gt;&lt;p&gt;&amp;#x27;GPT 펫으로 만들기&amp;#x27;로 새로 만드는 펫이 홈 화면과 같은 움직임을 사용합니다. 이미 등록한 펫은 다시 만들면 바뀝니다.&lt;/p&gt;&lt;p&gt;시스템의 동작 줄이기 설정을 켜면 움직이지 않는 기본 이미지로 보여 줍니다.&lt;/p&gt;&lt;h3&gt;울음소리&lt;/h3&gt;&lt;p&gt;진화가 끝나거나 선물로 포켓몬을 받으면 그 포켓몬의 울음소리가 납니다.&lt;/p&gt;&lt;p&gt;배경음악을 끄면 울음소리도 함께 꺼지고, 창을 닫으면 바로 멈춥니다.&lt;/p&gt;&lt;h3&gt;크레딧&lt;/h3&gt;&lt;p&gt;게임 아트 크레딧에 애니메이션과 울음소리의 출처를 추가했습니다.&lt;/p&gt;</description>
-      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.2.0/PokeGarden-1.2.0-arm64.zip" length="494661974" type="application/octet-stream" sparkle:edSignature="kkYX0sy+wzISxhSb8OFHgEvChN5s7cO3yzUiGnFGaVSx9mBjgKj4PQBJfwC40Disbb6SgpCXxm4Y/JOQMoTxDg==" />
+      <description>&lt;h3&gt;새로운 풍경&lt;/h3&gt;&lt;p&gt;모험 도장을 8개부터 64개까지 하나씩 모을 때마다 빨강 구조대의 친구 에리어 57곳이 차례로 열립니다.&lt;/p&gt;&lt;p&gt;새싹 산책길·노을빛 호숫가·별빛 캠프를 더 섬세한 픽셀 그림으로 새로 그렸습니다.&lt;/p&gt;&lt;h3&gt;모험 수첩&lt;/h3&gt;&lt;p&gt;&amp;#x27;우리가 머무는 곳&amp;#x27;은 9곳씩, &amp;#x27;함께한 순간&amp;#x27;은 10개씩 페이지를 나눠 보여 줍니다.&lt;/p&gt;&lt;h3&gt;울음소리&lt;/h3&gt;&lt;p&gt;홈 정원의 파트너를 누르면 울음소리를 들을 수 있습니다.&lt;/p&gt;&lt;p&gt;울음소리가 너무 크게 들리지 않도록 음량을 낮췄습니다.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/JeonDoGyun/pocket-garden-release/releases/download/v1.3.0/PokeGarden-1.3.0-arm64.zip" length="585230586" type="application/octet-stream" sparkle:edSignature="YQluO1QyCSC1hqEK9BED6MzpBH9C/Ekh32HN0Ud7WeXx2BMIN2W0GHBXbxGOrhhieH/DCDxPu7KO5t9gnEzeBg==" />
     </item>
   </channel>
 </rss>
